@@ -1,5 +1,8 @@
-     .h1 {
-         color: black; 
-        font-family: "Brush Script MT', cursive";
-        }
-    
+.h1 {
+  color: black;
+  font-family: "Brush Script MT', cursive";
+}
+
+.h2 {
+  color: #ff0000;
+}
