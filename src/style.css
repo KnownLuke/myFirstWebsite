@@ -4,18 +4,11 @@ h1 {
 }
 
 h2 {
-  color:blueviolet;
+  color: blueviolet;
 }
 
 div {
   color: #0000ff;
-}
-
-div.redBorder {
-  color: #0000ff;
-  border: 1px solid black;
-  margin: 15px;
-  padding: 20px 0px;
 }
 
 .circle {
